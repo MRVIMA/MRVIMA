@@ -49,7 +49,6 @@ When I'm not writing code, I'm crafting dark, high-intensity soundscapes and vis
 
 ## 🚀 Featured Projects
 > **[FiveM Cruise Control]** - A high-performance Lua script for FiveM servers.  
-> **[Phonk Discography]** - Latest tracks produced under the VØIDVIMA alias.
 
 ---
 

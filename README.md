@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXRrdDh2b2gxNHFhbzExZTYwNTBmaWU1cW15OTlwajdtZmpkNzVibiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYDEdKjIeco0vFm/giphy.gif" width="75%" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJpc2FmY3lyZjNpc2E3Znl5bHR0eHUyM3lxdTg1bWx0eTc4Mmk3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lny6Rw04nsOOc/giphy.gif" width="75%" />
 </p>
 
 <h1 align="center">👋 Hello, I'm Vimukthi Hewage</h1>

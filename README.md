@@ -17,7 +17,7 @@
 ## 👨‍💻 Engineering & Logic
 I am a **Software Engineering** student at **Cardiff Metropolitan University**. I specialize in bridging the gap between technical logic and dark, high-energy creative expression.
 
-- 🎓 **Education:** Cardiff Met (Student ID: st20286419)
+- 🎓 **Education:** Cardiff Met
 - 🛠️ **FiveM Development:** Creating custom Lua scripts and game mechanics.
 - ⚡ **Focus:** High-performance automation and game scripting.
 

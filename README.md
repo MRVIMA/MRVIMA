@@ -122,8 +122,17 @@ flowchart LR
 ## `▚ 05` &nbsp; SYSTEM TELEMETRY
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MRVIMA&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=E10600&icon_color=E10600&text_color=FFFFFF&ring_color=E10600" />
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRVIMA&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=E10600&text_color=FFFFFF" />
+  <img src="https://img.shields.io/github/followers/MRVIMA?style=for-the-badge&logo=github&logoColor=E10600&label=FOLLOWERS&labelColor=0D0D0D&color=8B0000" />
+  <img src="https://img.shields.io/github/stars/MRVIMA?style=for-the-badge&logo=github&logoColor=E10600&label=STARS+HARVESTED&labelColor=0D0D0D&color=8B0000" />
+</p>
+
+<p align="center">
+  <img width="94%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MRVIMA&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MRVIMA&theme=github_dark" />
+  <img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MRVIMA&theme=github_dark" />
 </p>
 
 <p align="center">

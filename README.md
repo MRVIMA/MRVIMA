@@ -116,22 +116,83 @@ flowchart LR
 ## `▚ 05` &nbsp; SYSTEM TELEMETRY
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/MRVIMA?style=for-the-badge&logo=github&logoColor=E10600&label=FOLLOWERS&labelColor=0D0D0D&color=8B0000" />
-  <img src="https://img.shields.io/github/stars/MRVIMA?style=for-the-badge&logo=github&logoColor=E10600&label=STARS+HARVESTED&labelColor=0D0D0D&color=8B0000" />
+  <img src="./assets/void-console.svg" width="100%" alt="Telemetry console" />
+</p>
+
+<details open>
+<summary><b>&nbsp;▸&nbsp; CHANNEL 01</b> &nbsp;<code>VITALS</code></summary>
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/MRVIMA?tab=followers"><img src="https://img.shields.io/github/followers/MRVIMA?style=for-the-badge&logo=github&logoColor=E10600&label=FOLLOWERS&labelColor=0D0D0D&color=8B0000" /></a>
+  <a href="https://github.com/MRVIMA?tab=repositories"><img src="https://img.shields.io/github/stars/MRVIMA?style=for-the-badge&logo=github&logoColor=E10600&label=STARS+HARVESTED&labelColor=0D0D0D&color=8B0000" /></a>
 </p>
 
 <p align="center">
-  <img width="94%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MRVIMA&theme=github_dark" />
+  <a href="https://github.com/MRVIMA"><img width="94%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MRVIMA&theme=github_dark" /></a>
 </p>
+
+</details>
+
+<details>
+<summary><b>&nbsp;▸&nbsp; CHANNEL 02</b> &nbsp;<code>LANGUAGE SPECTRUM</code></summary>
+
+<br/>
 
 <p align="center">
   <img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MRVIMA&theme=github_dark" />
   <img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MRVIMA&theme=github_dark" />
 </p>
 
+</details>
+
+<details>
+<summary><b>&nbsp;▸&nbsp; CHANNEL 03</b> &nbsp;<code>UPTIME / STREAK</code></summary>
+
+<br/>
+
 <p align="center">
   <img width="91%" src="https://streak-stats.demolab.com?user=MRVIMA&hide_border=true&background=0D0D0D&stroke=E10600&ring=E10600&fire=E10600&currStreakLabel=E10600&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=8B0000&sideNums=FFFFFF" />
 </p>
+
+</details>
+
+<details>
+<summary><b>&nbsp;▸&nbsp; CHANNEL 04</b> &nbsp;<code>CONTRIBUTION WAVEFORM</code></summary>
+
+<br/>
+
+<p align="center">
+  <img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=MRVIMA&bg_color=0D0D0D&color=FFFFFF&line=E10600&point=E10600&area=true&area_color=8B0000&hide_border=true&custom_title=VOID%20ACTIVITY%20WAVEFORM" />
+</p>
+
+</details>
+
+<details>
+<summary><b>&nbsp;▸&nbsp; CHANNEL 05</b> &nbsp;<code>TROPHY CABINET</code></summary>
+
+<br/>
+
+<p align="center">
+  <img width="94%" src="https://github-profile-trophy.vercel.app/?username=MRVIMA&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" />
+</p>
+
+</details>
+
+<details>
+<summary><b>&nbsp;▸&nbsp; CHANNEL 06</b> &nbsp;<code>PRODUCTIVE HOURS</code></summary>
+
+<br/>
+
+<p align="center">
+  <img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MRVIMA&theme=github_dark&utcOffset=5" />
+  <img width="46%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MRVIMA&theme=github_dark" />
+</p>
+
+<sub>Clock is set to UTC+5 &#183; Sri Lanka.</sub>
+
+</details>
 
 <img src="./assets/void-divider.svg" width="100%" alt="" />
 

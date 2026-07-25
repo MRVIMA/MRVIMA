@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 10" width="1200" height="10" role="img" aria-label="divider">
+  <defs>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#E10600" stop-opacity="0"/>
+      <stop offset="18%"  stop-color="#E10600" stop-opacity="0.9"/>
+      <stop offset="82%"  stop-color="#E10600" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#E10600" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="head" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="70%"  stop-color="#ffffff" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <style><![CDATA[
+      @keyframes run { 0% { transform: translateX(-220px) } 100% { transform: translateX(1220px) } }
+      @keyframes tick { 0%,100% { opacity:.3 } 50% { opacity:.9 } }
+      .run { animation: run 4.5s linear infinite }
+      .tick { animation: tick 2.2s ease-in-out infinite }
+    ]]></style>
+  </defs>
+  <rect x="0" y="4" width="1200" height="2" fill="url(#line)"/>
+  <g class="tick" fill="#E10600">
+    <rect x="0" y="1" width="2" height="8"/><rect x="10" y="2" width="2" height="6"/>
+    <rect x="1198" y="1" width="2" height="8"/><rect x="1188" y="2" width="2" height="6"/>
+  </g>
+  <rect class="run" x="0" y="3" width="200" height="4" fill="url(#head)" opacity="0.85"/>
+</svg>

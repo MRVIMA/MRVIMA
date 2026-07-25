@@ -57,56 +57,7 @@ const vima = {
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:E10600,100:0D0D0D&height=3&section=header" width="100%" />
 </p>
 
-## `▚ 02` &nbsp; CREATIVE IDENTITY // VØIDVIMA
-
-When the compiler goes quiet, the speakers get loud. I craft dark, high-intensity soundscapes and the visuals that bleed out of them.
-
-| SIGNAL | DESCRIPTION |
-| :--- | :--- |
-| **PHONK** | High-intensity drift beats and glitch aesthetics |
-| **ENERGETIC ROCK** | Driving rhythms, distorted power |
-| **SYNTHWAVE** | Retro-futuristic neon soundscapes |
-
-### `▚` PRODUCTION RIG
-
-<p align="left">
-  <img src="https://img.shields.io/badge/FL_Studio-0D0D0D?style=for-the-badge&logo=flstudio&logoColor=E10600" />
-  <img src="https://img.shields.io/badge/Premiere_Pro-0D0D0D?style=for-the-badge&logo=adobepremierepro&logoColor=E10600" />
-  <img src="https://img.shields.io/badge/After_Effects-0D0D0D?style=for-the-badge&logo=adobeaftereffects&logoColor=E10600" />
-  <img src="https://img.shields.io/badge/Photoshop-0D0D0D?style=for-the-badge&logo=adobephotoshop&logoColor=E10600" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:E10600,100:0D0D0D&height=3&section=header" width="100%" />
-</p>
-
-## `▚ 03` &nbsp; FEATURED BUILDS
-
-> ### ⛧ &nbsp;FiveM Cruise Control
-> A high-performance Lua script for FiveM servers. Smooth speed-hold logic, clean native usage, zero bloat.
->
-> `Lua` &nbsp;·&nbsp; `FiveM` &nbsp;·&nbsp; `Game Scripting`
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:E10600,100:0D0D0D&height=3&section=header" width="100%" />
-</p>
-
-## `▚ 04` &nbsp; SYSTEM TELEMETRY
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MRVIMA&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=E10600&icon_color=E10600&text_color=FFFFFF&ring_color=E10600" />
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRVIMA&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=E10600&text_color=FFFFFF" />
-</p>
-
-<p align="center">
-  <img width="91%" src="https://streak-stats.demolab.com?user=MRVIMA&hide_border=true&background=0D0D0D&stroke=E10600&ring=E10600&fire=E10600&currStreakLabel=E10600&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=8B0000&sideNums=FFFFFF" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,50:E10600,100:0D0D0D&height=3&section=header" width="100%" />
-</p>
-
-## `▚ 05` &nbsp; TRANSMISSIONS
+## `▚ 02` &nbsp; TRANSMISSIONS
 
 <p align="center">
   <a href="https://instagram.com/voidvima"><img src="https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=E10600" /></a>

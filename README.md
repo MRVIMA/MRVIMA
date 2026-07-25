@@ -106,10 +106,54 @@ flowchart LR
 
 ## `▚ 04` &nbsp; FEATURED BUILDS
 
-> ### ⛧ &nbsp;FiveM Cruise Control
-> A high-performance Lua script for FiveM servers. Smooth speed-hold logic, clean native usage, zero bloat.
->
-> `Lua` &nbsp;·&nbsp; `FiveM` &nbsp;·&nbsp; `Game Scripting`
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⛧ &nbsp;FiveM Cruise Control
+
+A high-performance Lua script for FiveM servers. Smooth speed-hold logic, clean native usage, zero bloat.
+
+<p>
+  <img src="https://img.shields.io/badge/Lua-0D0D0D?style=flat-square&logo=lua&logoColor=E10600" />
+  <img src="https://img.shields.io/badge/FiveM-0D0D0D?style=flat-square&logoColor=E10600" />
+  <img src="https://img.shields.io/badge/Game_Scripting-0D0D0D?style=flat-square&logoColor=E10600" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/github/last-commit/MRVIMA/FiveM-Cruise-Control?style=flat-square&labelColor=0D0D0D&color=8B0000&label=LAST%20COMMIT" />
+  <img src="https://img.shields.io/github/stars/MRVIMA/FiveM-Cruise-Control?style=flat-square&labelColor=0D0D0D&color=8B0000&label=STARS" />
+</p>
+
+<a href="https://github.com/MRVIMA/FiveM-Cruise-Control"><img src="https://img.shields.io/badge/OPEN_REPO-E10600?style=for-the-badge&logo=github&logoColor=0D0D0D" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+### ⛧ &nbsp;Kali Everything Manual
+
+A complete reference manual for Kali Linux — tooling, workflows and command syntax gathered into one searchable document instead of forty scattered tabs.
+
+<p>
+  <img src="https://img.shields.io/badge/Kali_Linux-0D0D0D?style=flat-square&logo=kalilinux&logoColor=E10600" />
+  <img src="https://img.shields.io/badge/Bash-0D0D0D?style=flat-square&logo=gnubash&logoColor=E10600" />
+  <img src="https://img.shields.io/badge/Documentation-0D0D0D?style=flat-square&logo=markdown&logoColor=E10600" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/github/last-commit/MRVIMA/Kali-Everything-Manual?style=flat-square&labelColor=0D0D0D&color=8B0000&label=LAST%20COMMIT" />
+  <img src="https://img.shields.io/github/stars/MRVIMA/Kali-Everything-Manual?style=flat-square&labelColor=0D0D0D&color=8B0000&label=STARS" />
+</p>
+
+<a href="https://github.com/MRVIMA/Kali-Everything-Manual"><img src="https://img.shields.io/badge/OPEN_REPO-E10600?style=for-the-badge&logo=github&logoColor=0D0D0D" /></a>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/MRVIMA?tab=repositories"><img src="https://img.shields.io/badge/&#9654;&#9654;&#9654;_ALL_REPOSITORIES-0D0D0D?style=for-the-badge&logo=github&logoColor=E10600&labelColor=0D0D0D" /></a>
+</p>
 
 <img src="./assets/void-divider.svg" width="100%" alt="" />
 

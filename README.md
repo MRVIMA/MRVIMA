@@ -29,15 +29,9 @@
   <img src="https://img.shields.io/badge/SIGNAL-CORRUPTED-0D0D0D?style=for-the-badge&labelColor=8B0000" />
 </p>
 
-```ansi
-[1;31m>[0m [0;37mINITIALIZING VOID.SYS ..........[0m [1;31mOK[0m
-[1;31m>[0m [0;37mOPERATOR .......................[0m [1;31mVIMUKTHI HEWAGE[0m
-[1;31m>[0m [0;37mSTACK MOUNTED ..................[0m [1;31mJAVA / PYTHON / LUA / C# / JS[0m
-[1;31m>[0m [0;37mCREATIVE MODULE ................[0m [1;31mV0IDVIMA.dll[0m
-[1;31m>[0m [0;37mHUMANITY.exe ...................[0m [0;31mNOT FOUND[0m
-[1;31m>[0m [0;37mSTATUS .........................[0m [1;31mONLINE[0m
-[1;31m██ EMBRACE THE NOTHING. BECOME EVERYTHING. ██[0m
-```
+<p align="center">
+  <img src="./assets/void-terminal.svg" width="100%" alt="VOID.SYS boot sequence" />
+</p>
 
 <img src="./assets/void-divider.svg" width="100%" alt="" />
 
@@ -154,9 +148,62 @@ flowchart LR
 <img src="./assets/void-divider.svg" width="100%" alt="" />
 
 <details>
-<summary><b>&nbsp;⛧&nbsp; ENTER THE VOID &nbsp;⛧&nbsp;</b> &nbsp;<sub>(you shouldn't)</sub></summary>
+<summary><img src="./assets/void-gate.svg" width="100%" alt="ENTER THE VOID" /></summary>
 
 <br/>
+
+<p align="center">
+  <img src="./assets/void-doors.svg" width="100%" alt="The corridor splits" />
+</p>
+
+<p align="center">
+  <b>The corridor splits. Two doors. No lights. Pick one.</b>
+</p>
+
+<details>
+<summary><b>&nbsp;▸&nbsp; THE RED DOOR</b> &nbsp;<code>the loud one</code></summary>
+
+<br/>
+
+Sub-bass hits you in the sternum before your eyes adjust. This is where the beats get made — drift phonk at 3AM, distorted 808s, cowbells sharpened into weapons.
+
+| | THE VOID LAWS — SIDE A |
+| :---: | :--- |
+| `I` | If it doesn't hit at 2AM, it doesn't hit. |
+| `II` | Silence is a sound. Emptiness is a feature. |
+| `III` | Distortion is honesty at volume. |
+
+<sub>You leave with ringing ears and a new project file.</sub>
+
+<img src="./assets/void-divider.svg" width="100%" alt="" />
+
+</details>
+
+<details>
+<summary><b>&nbsp;▸&nbsp; THE BLACK DOOR</b> &nbsp;<code>the quiet one</code></summary>
+
+<br/>
+
+One monitor. A cursor blinking in an empty Lua file. Somewhere a server is waiting for a script that doesn't exist yet.
+
+| | THE VOID LAWS — SIDE B |
+| :---: | :--- |
+| `I` | Ship it broken before you ship it never. |
+| `II` | Nothing is finished. Everything is versioned. |
+| `III` | The bug was you. It's always you. |
+
+<sub>You leave at sunrise. It compiled.</sub>
+
+<img src="./assets/void-divider.svg" width="100%" alt="" />
+
+</details>
+
+<details>
+<summary><b>&nbsp;▸&nbsp; NEITHER. TURN BACK.</b> &nbsp;<code>too late</code></summary>
+
+<br/>
+
+<p align="center">
 
 ```
  ██╗   ██╗  ██████╗ ██╗██████╗
@@ -165,59 +212,21 @@ flowchart LR
  ╚██╗ ██╔╝ ██║   ██║██║██║  ██║
   ╚████╔╝  ╚██████╔╝██║██████╔╝
    ╚═══╝    ╚═════╝ ╚═╝╚═════╝
-        ░░ YOU WERE WARNED ░░
 ```
 
-The corridor splits. Two doors. No lights. Pick one.
+</p>
 
-<blockquote>
-
-<details>
-<summary><b>▸ &nbsp;THE RED DOOR</b> &nbsp;<sub>— the loud one</sub></summary>
-
-<br/>
-
-Sub-bass hits you in the sternum before your eyes adjust. This is where the beats get made — drift phonk at 3AM, distorted 808s, cowbells sharpened into weapons.
-
-> **THE VOID LAWS — SIDE A**
-> `I.` &nbsp; If it doesn't hit at 2AM, it doesn't hit.
-> `II.` &nbsp; Silence is a sound. Emptiness is a feature.
-> `III.` &nbsp; Distortion is honesty at volume.
-
-<sub>You leave with ringing ears and a new project file.</sub>
-
-</details>
-
-<details>
-<summary><b>▸ &nbsp;THE BLACK DOOR</b> &nbsp;<sub>— the quiet one</sub></summary>
-
-<br/>
-
-One monitor. A cursor blinking in an empty Lua file. Somewhere a server is waiting for a script that doesn't exist yet.
-
-> **THE VOID LAWS — SIDE B**
-> `I.` &nbsp; Ship it broken before you ship it never.
-> `II.` &nbsp; Nothing is finished. Everything is versioned.
-> `III.` &nbsp; The bug was you. It's always you.
-
-<sub>You leave at sunrise. It compiled.</sub>
-
-</details>
-
-<details>
-<summary><b>▸ &nbsp;NEITHER. TURN BACK.</b></summary>
-
-<br/>
+There was never a corridor.
 
 ```
 01000101 01001101 01010000 01010100 01011001
 ```
 
-<sub>There was never a corridor. Decode it, then pretend you saw nothing.</sub>
+<sub>Decode it, then pretend you saw nothing.</sub>
+
+<img src="./assets/void-divider.svg" width="100%" alt="" />
 
 </details>
-
-</blockquote>
 
 </details>
 
